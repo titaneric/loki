@@ -1,0 +1,28 @@
+pkg/kafka/partition/reader_test.go
+  5870225321a5b312 11,19,468-547
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "76324d32c34a916dc98cfcf858408cdaef3f8164",
+  "prompts": {
+    "5870225321a5b312": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "637ffa46-c947-442f-abe7-c8dab4b42900",
+        "model": "copilot/auto"
+      },
+      "human_author": "titaneric",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 82,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_b38ea7e1a183fd": {
+      "author": "titaneric"
+    }
+  }
+}
