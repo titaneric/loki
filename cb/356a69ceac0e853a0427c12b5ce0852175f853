@@ -1,0 +1,32 @@
+docs/sources/operations/troubleshooting/troubleshoot-operations.md
+  5870225321a5b312 2905-2941
+docs/sources/setup/upgrade/_index.md
+  5870225321a5b312 40-56
+docs/sources/shared/configuration.md
+  5870225321a5b312 1195-1196,1200-1203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "cb356a69ceac0e853a0427c12b5ce0852175f853",
+  "prompts": {
+    "5870225321a5b312": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "637ffa46-c947-442f-abe7-c8dab4b42900",
+        "model": "copilot/auto"
+      },
+      "human_author": "titaneric",
+      "messages": [],
+      "total_additions": 155,
+      "total_deletions": 14,
+      "accepted_lines": 143,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_b38ea7e1a183fd": {
+      "author": "titaneric"
+    }
+  }
+}
