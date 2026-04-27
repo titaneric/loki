@@ -1,0 +1,37 @@
+pkg/kafka/config_test.go
+  5870225321a5b312 43-108
+pkg/kafka/client/reader_client_test.go
+  5870225321a5b312 28,30-34,39,41-45,50,52-56,76-115
+pkg/kafka/client/writer_client_test.go
+  5870225321a5b312 29,31-36,41,43-48,53,55-60,80-120
+pkg/kafka/client/writer_client.go
+  5870225321a5b312 17,199-201,204-217
+pkg/kafka/config.go
+  5870225321a5b312 38-49,63-66,109-110,150,152
+  h_b38ea7e1a183fd 8,151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "8ed79638cfb15c5494194b8358bef8762878ec70",
+  "prompts": {
+    "5870225321a5b312": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "637ffa46-c947-442f-abe7-c8dab4b42900",
+        "model": "copilot/auto"
+      },
+      "human_author": "titaneric",
+      "messages": [],
+      "total_additions": 332,
+      "total_deletions": 59,
+      "accepted_lines": 251,
+      "overriden_lines": 1
+    }
+  },
+  "humans": {
+    "h_b38ea7e1a183fd": {
+      "author": "titaneric"
+    }
+  }
+}
