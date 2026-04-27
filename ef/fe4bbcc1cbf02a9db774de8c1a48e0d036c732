@@ -1,0 +1,14 @@
+Makefile
+  h_b38ea7e1a183fd 90-91,594
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "effe4bbcc1cbf02a9db774de8c1a48e0d036c732",
+  "prompts": {},
+  "humans": {
+    "h_b38ea7e1a183fd": {
+      "author": "titaneric"
+    }
+  }
+}
