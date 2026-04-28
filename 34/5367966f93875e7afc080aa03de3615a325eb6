@@ -1,0 +1,14 @@
+pkg/kafka/client/writer_client_test.go
+  h_b38ea7e1a183fd 131-132
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "345367966f93875e7afc080aa03de3615a325eb6",
+  "prompts": {},
+  "humans": {
+    "h_b38ea7e1a183fd": {
+      "author": "titaneric"
+    }
+  }
+}
