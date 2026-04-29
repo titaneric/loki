@@ -1,0 +1,14 @@
+docs/sources/setup/upgrade/_index.md
+  h_b38ea7e1a183fd 40-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "c87721422f9586b8a1533d0433a54edd5ad9abd0",
+  "prompts": {},
+  "humans": {
+    "h_b38ea7e1a183fd": {
+      "author": "titaneric"
+    }
+  }
+}
