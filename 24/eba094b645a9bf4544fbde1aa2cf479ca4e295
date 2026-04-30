@@ -1,0 +1,28 @@
+pkg/ingester/kafka_consumer.go
+  h_b38ea7e1a183fd 146
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "24eba094b645a9bf4544fbde1aa2cf479ca4e295",
+  "prompts": {
+    "ccc6976bd75c09a6": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "f1fc9a5f-d717-4d65-9387-23bc7b58f1fd",
+        "model": "copilot/auto"
+      },
+      "human_author": "titaneric",
+      "messages": [],
+      "total_additions": 283,
+      "total_deletions": 1,
+      "accepted_lines": 279,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_b38ea7e1a183fd": {
+      "author": "titaneric"
+    }
+  }
+}
