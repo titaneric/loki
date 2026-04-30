@@ -143,7 +143,7 @@ func (kc *kafkaConsumer) consume(ctx context.Context, records []partition.Record
 			for recordWithIndex := range workChan {
 				stream, err := kc.decoder.DecodeWithoutLabels(recordWithIndex.record.Content)
 				if err != nil {
-					level.Error(kc.logger).Log("msg", "failed to decode record", "error", err)
+					level.Error(kc.logger).Log("msg", "failed to decode record", "error", err, "offset", recordWithIndex.record.Offset, "tenant_id", recordWithIndex.record.TenantID)
 					continue
 				}
 
